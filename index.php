@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title> bienvenidos amigos</title>
 </head>
 <body>
-
+<h1>somos convenio sena</h1>
 </body>
 </html>
